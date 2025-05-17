@@ -17,7 +17,7 @@ This project uses Natural Language Processing (NLP) to extract and compare skill
 ## 📁 Folder Structure
 
 ```
-resume_SkillMatch_Analyzer/
+Resume_SkillMatch_Analyzer/
 │
 ├── backend/
 │   ├── analyze.py
@@ -69,8 +69,8 @@ resume_SkillMatch_Analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/resume_SkillMatch_Analyzer.git
-cd resume_SkillMatch_Analyzer
+git clone https://github.com/RajasekharAHN/Resume-SkillMatch-Analyzer.git
+cd Resume_SkillMatch_Analyzer
 ```
 
 ---
