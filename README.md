@@ -109,15 +109,20 @@ python analyze.py               # Start the Flask server
 1. Upload resume (`.pdf`, `.docx`, `.txt`)
 2. Upload job description
 3. Click "Analyze"
-4. View:
+   ![image](https://github.com/user-attachments/assets/7c7f4826-10f8-4237-b57e-609252e46159)
+
+
+5. View:
    - Matching Score
    - Matching Skills
    - Missing Skills
    - Visual Skill Charts
+     ![image](https://github.com/user-attachments/assets/d881a20f-341d-4d00-a697-c58d70aa6da9)
+     ![image](https://github.com/user-attachments/assets/a7da5b2f-1792-4cfa-b8b1-d8db445e5fed)
+     ![image](https://github.com/user-attachments/assets/7b642a7e-3187-4e62-a43a-a59c9bb1a949)
+     ![image](https://github.com/user-attachments/assets/31e55c46-44b0-428b-96aa-453ad2c0574a)
 
 ---
-
-
 
 ## 💡 Future Improvements
 
